@@ -1,0 +1,40 @@
+#announcement-panel {
+	height: 900px;
+	
+	
+}
+
+#announcement-header
+{
+	color: rgb(0, 0, 0);
+	padding: 10px;
+	font-style: bold;
+}
+
+#announcement-header {
+	font-size: 8em;
+	font-weight: bold;
+
+}
+
+
+#form, #results {
+	padding: 40px;
+}
+
+#announcement-panel {
+	background-image: url("images/21.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#home-energy-label, .fa-home {
+	color: #ff0000;
+}
+
+
+body {
+  background-color: #ffffff;
+}
+
